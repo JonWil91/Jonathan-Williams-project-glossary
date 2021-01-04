@@ -1,4 +1,4 @@
-My name is Jonathan Williams, below is a an ongoing glossary of the projects I have added to my GitHub, separated by languages used and skills implemented.
+Below is a an ongoing glossary of the projects I have added to my GitHub, separated by languages used and skills implemented.
 
 Each section contains up to three examples of the language or skillset, with a link to repository which includes a link to the live app, or to the relevant code file.
 
@@ -9,8 +9,8 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 * [HTML](#html)
 * [CSS](#css)
 * [Python](#python)
-  * [Flask](#flask)
-  * [Django](#django)
+	*   [Flask](#flask)
+    *   [Django](#django)
  * [Responsive Design](#responsive-design)
  * [MongoDB](#mongo-db)
  * [Bootstrap](#bootstrap)
@@ -19,18 +19,19 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
  * [Leaflet Maps](#leaflet-maps)
  * [Stripe Payment](#stripe-payment)
 
-[Repository](https://github.com/JonWil91/Travel-Canada)
-[HTML file](https://github.com/JonWil91/Travel-Canada/blob/master/index.html)
-
 ## JavaScript
 
 * Higher or Lower: A numbers game of higher or lower
 	* [Repository](https://github.com/JonWil91/numbers-game-javascript)
-	* [HTML file](https://github.com/JonWil91/numbers-game-javascript/blob/master/index.html)
+	* [JS file](https://github.com/JonWil91/numbers-game-javascript/blob/master/script.js)
 
-* Match the Pairs: A JavaScript match the pairs game
+* Match the Pairs: A match the pairs game
 	* [Repository](https://github.com/JonWil91/Match-the-Pairs)
-	* [HTML file](https://github.com/JonWil91/Match-the-Pairs/blob/master/index.html)
+	* [JS file](https://github.com/JonWil91/Match-the-Pairs/blob/master/assets/js/style.js)
+
+* Pig Game: A two player game, each player rolls the dice hoping to avoid a 1, banking scores until the winner reaches 20
+	* [Repository](https://github.com/JonWil91/pig-game)
+	* [JS file](https://github.com/JonWil91/pig-game/blob/main/script.js)
 
 ## HTML
 
@@ -75,6 +76,18 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 	* [Python settings.py file](https://github.com/JonWil91/JW-Photography/blob/master/milestone4/settings.py)
 
 ## Responsive Design
+
+* Higher or Lower: A numbers game of higher or lower
+	* [Repository](https://github.com/JonWil91/numbers-game-javascript)
+	* [HTML file](https://github.com/JonWil91/numbers-game/blob/master/index.html)
+
+* Match the Pairs: A match the pairs game
+	* [Repository](https://github.com/JonWil91/Match-the-Pairs)
+	* [HTML file](https://github.com/JonWil91/Match-the-Pairs/blob/master/index.html)
+
+* JW Photography: An E-Commerce app using Django and Stripe Payment system
+	* [Repository](https://github.com/JonWil91/JW-Photography)
+	* [Products HTML templates folder](https://github.com/JonWil91/JW-Photography/tree/master/products/templates/products)
 
 ## MongoDB
 
