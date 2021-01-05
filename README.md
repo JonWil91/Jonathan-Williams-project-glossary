@@ -1,9 +1,13 @@
+My name is Jonathan Williams, I completed my Software Development course through Code Institute with a Secondary Honours Diploma in Full Stack Development in August 2020, and continue to enjoy learning new skills to improve my coding ability.
+
 Below is a an ongoing glossary of the projects I have added to my GitHub, separated by languages used and skills implemented.
 
 Each section contains up to three examples of the language or skillset, with a link to repository which includes a link to the live app, or to the relevant code file.
 
 For more information on my professional background please view my [CV](
 https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit my [CV app](https://jonwil91.github.io/jon-williams-cv/index.html).
+
+### [GitHub Repositories](https://github.com/JonWil91?tab=repositories) 
 
 * [JavaScript](#javascript)
 * [HTML](#html)
@@ -94,6 +98,7 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 
 * Form Validation: An app to check each field of a form matches the required format
 	* [Repository](https://github.com/JonWil91/form-validation)
+	* [JS File](https://github.com/JonWil91/form-validation/blob/main/script.js)
 
 ## MongoDB
 
