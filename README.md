@@ -12,6 +12,7 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 	*   [Flask](#flask)
     *   [Django](#django)
  * [Responsive Design](#responsive-design)
+ * [Form Validation](#form-validation)
  * [MongoDB](#mongo-db)
  * [Bootstrap](#bootstrap)
  * [Materialize](#materialize)
@@ -89,6 +90,11 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 	* [Repository](https://github.com/JonWil91/JW-Photography)
 	* [Products HTML templates folder](https://github.com/JonWil91/JW-Photography/tree/master/products/templates/products)
 
+## Form Validation
+
+* Form Validation: An app to check each field of a form matches the required format
+	* [Repository](https://github.com/JonWil91/form-validation)
+
 ## MongoDB
 
 * Let's Hike: A Python & Flask app for users to create, read, update and delete hiking data
@@ -96,6 +102,18 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 	* [Python apps.py file](https://github.com/JonWil91/Lets-Hike/blob/master/app.py)
 
 ## Bootstrap
+
+* Higher or Lower: A numbers game of higher or lower
+	* [Repository](https://github.com/JonWil91/numbers-game-javascript)
+	* [HTML file](https://github.com/JonWil91/numbers-game/blob/master/index.html)
+
+* Match the Pairs: A match the pairs game
+	* [Repository](https://github.com/JonWil91/Match-the-Pairs)
+	* [HTML file](https://github.com/JonWil91/Match-the-Pairs/blob/master/index.html)
+
+* JW Photography: An E-Commerce app using Django and Stripe Payment system
+	* [Repository](https://github.com/JonWil91/JW-Photography)
+	* [Products HTML templates folder](https://github.com/JonWil91/JW-Photography/tree/master/products/templates/products)
 
 ## Materialize
 
