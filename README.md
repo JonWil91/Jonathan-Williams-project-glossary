@@ -23,6 +23,7 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
  * [jQuery](#jquery)
  * [Leaflet Maps](#leaflet-maps)
  * [Stripe Payment](#stripe-payment)
+ * [API](#api)
 
 ## JavaScript
 
@@ -139,4 +140,10 @@ https://jonwil91.github.io/jon-williams-cv/static/cv/williams-cv.pdf) or visit m
 * JW Photography: An E-Commerce app using Django and Stripe Payment system
 	* [Repository](https://github.com/JonWil91/JW-Photography)
 	* [Python Checkout app folder](https://github.com/JonWil91/JW-Photography/tree/master/checkout)
+
+## API
+
+* Simple API app that provides different Chuck Norris jokes from an API after clicking the button
+* [Repository](https://github.com/JonWil91/api-chuckNorris-jokes)
+* [JavaScript file](https://github.com/JonWil91/api-chuckNorris-jokes/blob/main/script.js)
 
